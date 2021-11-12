@@ -1,3 +1,0 @@
-size cube+0.1
-move 0.1 up
-size shape panjang kedepan
